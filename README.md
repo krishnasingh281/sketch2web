@@ -1,1 +1,2 @@
-# sketch2web
+# sketch2Website
+Convert wireframes into Websites.
